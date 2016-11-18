@@ -241,8 +241,8 @@ directionDetailsWideCards:
     links:
      - {
         link: "http://www.hotelmaxseattle.com",
-        text: "Hotel Max",
-        cost: "ISB Price: $189 per night",
+        text: "Hotel Max. Please utilize the corporate code IFSB on their website to enable the discount.",
+        cost: "ISB Price: $249 per night",
         distance: ".9 mi",
         telephone: "(866) 833-6299"
         }
