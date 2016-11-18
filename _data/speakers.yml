@@ -156,11 +156,12 @@
     surname: "Gao"
     company: "Memorial Sloan Kettering Cancer Center, cBioPortal"
     title: ""
-    bio: ""
+    bio: "Our team develops resources such as cBioPortal which allow interactive and explorative analysis and interpretation of cancer genomics data."
     thumbnailUrl: JianjiongGao.jpg
     rockstar: true
     ribbon:
       - {abbr: "MSKCC", title: "Memorial Sloan Kettering Cancer Center", url: "https://www.mskcc.org/research-areas/labs/members/jianjiong-gao-01"}
+      - {abbr: "cBioPortal", title: "The cBioPortal for Cancer Genomics", url: "http://cbioportal.org/"}
 -
     id: 15
     name: "Julia"
