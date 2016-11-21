@@ -175,6 +175,7 @@
     rockstar: true
     ribbon:
       - {abbr: "simonsfoundation", title: "Simons Foundation", url: "https://www.simonsfoundation.org/computational-centers/simons-center-for-data-analysis/systems-biology/julia-koehler-leman/"}
+      - {abbr: "homepage", title: "homepage", url: "http://juliakoehlerleman.blogspot.com/"}
 -
     id: 16
     name: "Andy"
