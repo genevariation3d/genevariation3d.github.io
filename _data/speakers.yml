@@ -2,13 +2,15 @@
   id: 1
   name: "Stephen K."
   surname: "Burley"
-  company: "RCSB PDB, Rutgers University"
-  title: "Director, RCSB PDB, Center for Integrative Proteomics Research (CIPR)"
+  company: "RCSB Protein Data Bank Rutgers University/UC San Diego"
+  title: "M.D., D.Phil. Director, RCSB Protein Data Bank"
   bio: "Stephen Burley is an expert in structural biology, proteomics, bioinformatics, structure/fragment based drug discovery, and clinical medicine/oncology."
   thumbnailUrl: StephenKBurley.jpg
   rockstar: true
   ribbon:
-    - {abbr: "RCSB PDB", title: "Rutgers University", url: "http://public.proteomics.rutgers.edu/node/9"}
+    - {abbr: "RCSB PDB", title: "RCSB Protein Data Bank", url: "http://www.rcsb.org"}
+    - {abbr: "RU", title: "Rutgers University", url: "http://public.proteomics.rutgers.edu/node/9"}
+    - {abbr: "SDSC/UCSD", title: "San Diego Supercomputing Center", url: "http://bioinformatics.sdsc.edu/"}
 -
   id: 2
   name: "Marija"
@@ -230,6 +232,7 @@
     rockstar: true
     ribbon:
       - {abbr: "RCSB PDB", title: "RCSB Protein Data Bank", url: "http://www.rcsb.org"}
+      - {abbr: "SDSC/UCSD", title: "San Diego Supercomputing Center", url: "http://bioinformatics.sdsc.edu/"}
     social:
       - {name: "google-plus", link: "https://plus.google.com/+AndreasPrlic"}
       - {name: "twitter", link: "https://twitter.com/andorsch"}
