@@ -167,11 +167,11 @@
 -
     id: 15
     name: "Julia"
-    surname: "Koehler Lehmann"
+    surname: "Koehler Lemann"
     company: "Simons Center for Data Analysis"
     title: ""
     bio: ""
-    thumbnailUrl: JuliaKoehlerLehmann.jpg
+    thumbnailUrl: JuliaKoehlerLemann.jpg
     rockstar: true
     ribbon:
       - {abbr: "simonsfoundation", title: "Simons Foundation", url: "https://www.simonsfoundation.org/computational-centers/simons-center-for-data-analysis/systems-biology/julia-koehler-leman/"}
