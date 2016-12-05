@@ -92,7 +92,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Institue for Systems Biology"
+eventLocationName: "Institute for Systems Biology"
 eventLocationLink: "https://www.systemsbiology.org"
 eventStreetAddress: "401 Terry Ave N"
 eventAddressLocality: "Seattle"
