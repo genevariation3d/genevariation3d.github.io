@@ -223,6 +223,17 @@
     ribbon:
       - {abbr: "U. Washington", title: University of Washington", url: "http://faculty.washington.edu/dfowler/people.html"}
 -
+    id: 20
+    name: "Hagen"
+    surname: "Tilgner"
+    company: "Weill Cornell Medical College, Cornell University"
+    title: "Assistant Professor of Neuroscience"
+    bio: "We are interested in how the same, within an individual mostly invariant genome, can give rise to functionally extremely diverse cell types – such as the ones that are the building blocks of the human brain."
+    thumbnailUrl: HagenTilgner.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "Cornell", title: Cornell University", url: "http://www.tilgnerlab.com/"}
+-
     id: 99
     name: "Andeas"
     surname: "Prlic"
