@@ -210,7 +210,7 @@
     thumbnailUrl: RachelKarchin.jpg
     rockstar: true
     ribbon:
-      - {abbr: "John Hopkins", title: "Johns Hopkins University", url: "http://karchinlab.org/"}
+      - {abbr: "Johns Hopkins", title: "Johns Hopkins University", url: "http://karchinlab.org/"}
 -
     id: 19
     name: "Hannah"
