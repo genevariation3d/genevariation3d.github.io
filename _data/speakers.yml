@@ -221,7 +221,7 @@
     thumbnailUrl: HannahGelman.jpg
     rockstar: true
     ribbon:
-      - {abbr: "U. Washington", title: University of Washington", url: "http://faculty.washington.edu/dfowler/people.html"}
+      - {abbr: "U. Washington", title: "University of Washington", url: "http://faculty.washington.edu/dfowler/people.html"}
 -
     id: 20
     name: "Hagen"
@@ -232,7 +232,18 @@
     thumbnailUrl: HagenTilgner.jpg
     rockstar: true
     ribbon:
-      - {abbr: "Cornell", title: Cornell University", url: "http://www.tilgnerlab.com/"}
+      - {abbr: "Cornell", title: "Cornell University", url: "http://www.tilgnerlab.com/"}
+-
+    id: 21
+    name: "Michael"
+    surname: "Heuer"
+    company: "Amplab, U.C. Berkeley"
+    title: ""
+    bio: ""
+    thumbnailUrl: MichaelHeuer.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "Amplab", title: "Amplab, U.C. Berkeley", url: "https://amplab.cs.berkeley.edu/"}
 -
     id: 99
     name: "Andeas"

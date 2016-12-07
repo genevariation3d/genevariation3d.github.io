@@ -1,47 +1,242 @@
 -
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2017-02-09"
+  dateReadable: "February 9"
   tracks:
-    - {title: "Main Track", color: "#90be4e"}
+    - {title: "&nbsp;", color: "#03a9f4"}
   timeslots:
     - {
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [10830]
+    }
+    - {
+      	startTime: "09:00",
+      	endTime: "09:30",
+      	sessionIds: [10900]
+    }
+    - {
+      	startTime: "09:30",
+      	endTime: "11:00",
+      	group: true,
+      sessionIds: [11]
+    }
+    - {
+    	startTime: "09:30",
+    	endTime: "10:00",
+    	sessionIds: [10930]
+    }
+    - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [001]
+    	endTime: "10:20",
+    	sessionIds: [11000]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [002]
+    	startTime: "10:20",
+    	endTime: "11:00",
+    	sessionIds: [11020]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [003]
-    }
--
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks:
-    - {title: "Main Track", color: "#90be4e"}    
-  timeslots:
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404]
+    	startTime: "10:40",
+    	endTime: "11:00",
+    	sessionIds: [11040]
     }
     - {
     	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002]
+    	endTime: "12:20",
+    	sessionIds: [12],
+      group: true
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    	startTime: "11:00",
+    	endTime: "11:20",
+    	sessionIds: [11100]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "11:20",
+    	endTime: "11:40",
+    	sessionIds: [11120]
+    }
+    - {
+    	startTime: "11:40",
+    	endTime: "12:00",
+    	sessionIds: [11140]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:20",
+    	sessionIds: [11200]
+    }
+    - {
+    	startTime: "12:20",
+    	endTime: "13:20",
+    	sessionIds: [11220],
+      showEnd: true
+    }
+    - {
+      	startTime: "13:20",
+      	endTime: "14:40",
+      	sessionIds: [13],
+        group: true
+    }
+    - {
+      	startTime: "13:20",
+      	endTime: "13:40",
+      	sessionIds: [11320]
+    }
+    - {
+      	startTime: "13:40",
+      	endTime: "14:00",
+      	sessionIds: [11340]
+    }
+    - {
+      	startTime: "14:00",
+      	endTime: "14:20",
+      	sessionIds: [11400]
+    }
+    - {
+      	startTime: "14:20",
+      	endTime: "14:40",
+      	sessionIds: [11420]
+    }
+    - {
+      	startTime: "14:40",
+      	endTime: "15:00",
+      	sessionIds: [11440]
+    }
+    - {
+      	startTime: "15:00",
+      	endTime: "16:20",
+      	sessionIds: [14],
+      	group: true
+    }
+    - {
+      	startTime: "15:00",
+      	endTime: "15:20",
+      	sessionIds: [11500]
+    }
+    - {
+      	startTime: "15:20",
+      	endTime: "15:40",
+      	sessionIds: [11520]
+    }
+    - {
+      	startTime: "15:40",
+      	endTime: "16:00",
+      	sessionIds: [11540]
+    }
+    - {
+      	startTime: "16:00",
+      	endTime: "16:20",
+      	sessionIds: [11600]
+    }
+    - {
+      	startTime: "16:20",
+      	endTime: "17:20",
+      	sessionIds: [11620],
+      	showEnd: true
+    }
+-
+  date: "2017-02-10"
+  dateReadable: "February 10"
+  tracks:
+    - {title: "Day 2", color: "#e91e63"}
+  timeslots:
+    - {
+      	startTime: "08:30",
+      	endTime: "09:00",
+      	sessionIds: [20830]
+    }
+    - {
+      	startTime: "09:00",
+      	endTime: "10:20",
+      	sessionIds: [21],
+      	group: true
+    }
+    - {
+      	startTime: "09:00",
+      	endTime: "09:20",
+      	sessionIds: [20900]
+    }
+    - {
+      	startTime: "09:20",
+      	endTime: "09:40",
+      	sessionIds: [20920]
+    }
+    - {
+      	startTime: "09:40",
+      	endTime: "10:00",
+      	sessionIds: [20940]
+    }
+    - {
+      	startTime: "10:00",
+      	endTime: "10:20",
+      	sessionIds: [21000]
+    }
+    - {
+      	startTime: "10:20",
+      	endTime: "10:40",
+      	sessionIds: [21020]
+    }
+    - {
+      	startTime: "10:40",
+      	endTime: "11:40",
+      	sessionIds: [22],
+      	group: true
+    }
+    - {
+      	startTime: "10:40",
+      	endTime: "11:00",
+      	sessionIds: [21040]
+    }
+    - {
+      	startTime: "11:00",
+      	endTime: "11:20",
+      	sessionIds: [21100]
+    }
+    - {
+      	startTime: "11:20",
+      	endTime: "11:40",
+      	sessionIds: [21120]
+    }
+    - {
+      	startTime: "12:00",
+      	endTime: "13:00",
+      	sessionIds: [21200],
+        showEnd: true
+    }
+    - {
+      startTime: "13:00",
+      endTime: "15:00",
+      sessionIds: [23],
+      group: true
+    }
+    - {
+      startTime: "13:00",
+      endTime: "15:00",
+      sessionIds: [21300],
+      showEnd: true
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:40",
+      sessionIds: [24],
+      group: true
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:40",
+      sessionIds: [21500],
+      showEnd: true
+    }
+    - {
+      startTime: "15:40",
+      endTime: "16:40",
+      sessionIds: [21540],
+      showEnd: true
+    }
+    - {
+      startTime: "16:40",
+      endTime: "17:00",
+      sessionIds: [21640],
+      showEnd: true
     }

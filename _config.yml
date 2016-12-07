@@ -45,8 +45,8 @@ registerUrl: "https://secure.qgiv.com/for/ifsbevents/event/778505/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about/", text: "About"}
- - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/register/", text: "Registration"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
@@ -55,9 +55,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/register/", text: "Register"}
 rightNavigationButtons:
-# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/register/", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -201,7 +201,7 @@ blogCommentsEnabled: true
 discusShortName: "genevariation3d"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"

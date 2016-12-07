@@ -1,0 +1,257 @@
+-
+  id: 10830
+  title: "Continental Breakfast"
+  place: "Hall"
+  service: true
+  description: "Getting started in the morning."
+-
+  id: 10900
+  title: "Welcome and Introductions"
+  description: ""
+  subtype: workshop
+  speakers: [10]
+-
+  id: 11
+  title: "Session 1: Protein Structures"
+  description: "Chair: Andreas Prlic"
+  subtype: workshop
+  speakers: []
+  service: true
+  group: true
+-
+  id: 10930
+  title: "Using the Protein Data Bank to Understand Cancer-related Point Mutations in 3D"
+  description: ""
+  subtype: workshop
+  speakers: [1]
+-
+  id: 11000
+  title: ""
+  description: ""
+  subtype: workshop
+  speakers: [11]
+-
+  id: 11020
+  title: "How do SNP mutations impact protein folding and protein-protein interaction? A viewpoint of protein structure prediction."
+  description: ""
+  subtype: workshop
+  speakers: [7]
+-
+  id: 11040
+  title: "Break"
+  description: ""
+  service: true
+-
+  id: 12
+  title: "Session 2: Genetic Variations"
+  description: "Chair: Eric Deutsch"
+  subtype: workshop
+  speakers: []
+  service: true
+  group: true
+-
+  id: 11100
+  title: ""
+  description: ""
+  subtype: workshop
+  speakers: [9]
+-
+  id: 11120
+  title: "Representing the diversity of human proteins: from sequence to structure annotation."
+  description: ""
+  subtype: workshop
+  speakers: [12]
+-
+  id: 11140
+  title: ""
+  description: ""
+  subtype: workshop
+  speakers: [6]
+-
+  id: 11200
+  title: "Getting the entire message: Full-length RNA isoforms in human brain and cells"
+  description: ""
+  subtype: workshop
+  speakers: [20]
+-
+  id: 11220
+  title: "Lunch"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 13
+  title: "Session 3: Mapping Variations to Structures - Part 1"
+  description: "Chair: Gustavo Gusman"
+  subtype: workshop
+  speakers: []
+  service: true
+  group: true
+-
+  id: 11320
+  title: "Mapping cancer mutations to Kinome interactions"
+  description: ""
+  subtype: workshop
+  speakers: [2]
+-
+  id: 11340
+  title: "Toward predicting the effect of mutations on membrane protein structure"
+  description: ""
+  speakers: [15]
+-
+  id: 11400
+  title: "MuPIT - the mutation position imaging toolkit"
+  description: ""
+  speakers: [18]
+-
+  id: 11420
+  title: "3D clusters of somatic mutations in cancer reveal numerous rare mutations as functional targets"
+  description: ""
+  speakers: [14]
+-
+  id: 11440
+  title: "Break"
+  description: ""
+  service: true
+-
+  id: 14
+  title: "Session 4: Applications"
+  description: "Chair: Eric Deutsch"
+  subtype: workshop
+  speakers: []
+  service: true
+  group: true
+-
+    id: 11500
+    title: "Differential Expression of Splice Isoforms of Transcripts and Proteins in Cancers: Potential Diagnostic Biomarkers and More Specific Targets for Therapy"
+    description: ""
+    speakers: [5]
+-
+    id: 11520
+    title: ""
+    description: ""
+    speakers: [17]
+-
+    id: 11540
+    title: ""
+    description: ""
+    speakers: [4]
+-
+    id: 11600
+    title: "Modeling at the intersection of structural biology and systems biology"
+    description: ""
+    speakers: [3]
+-
+    id: 11620
+    title: "Open Discussion Day 1"
+    description: ""
+    subtype: workshop
+    speakers: []
+    service: true
+-
+    id: 20830
+    title: "Continental Breakfast"
+    place: "Hall"
+    service: true
+    description: "Getting started in the morning."
+-
+    id: 21
+    title: "Session 5: Mapping Variations to Structures - Part 2"
+    description: "Chair: Andreas Prlic"
+    subtype: workshop
+    speakers: []
+    service: true
+    group: true
+-
+    id: 20900
+    title: ""
+    description: ""
+    speakers: [13]
+-
+    id: 20920
+    title: "Fast and comprehensive detection of variant peptides using MSFragger"
+    description: ""
+    speakers: [16]
+-
+    id: 20940
+    title: ""
+    description: ""
+    speakers: [19]
+-
+    id: 21000
+    title: ""
+    description: ""
+    speakers: []
+-
+    id: 21020
+    title: "Break"
+    description: ""
+    service: true
+-
+    id: 22
+    title: "Session 6: Big Data Technologies"
+    description: "Chair: Peter Rose"
+    subtype: workshop
+    speakers: []
+    service: true
+    group: true
+-
+    id: 21040
+    title: "A 3D structural view of the human genome; data, technologies, challenges."
+    description: ""
+    speakers: [99]
+-
+    id: 21100
+    title: "Tools and practices for open and reproducible data-driven discovery"
+    description: ""
+    speakers: [8]
+-
+    id: 21120
+    title: ""
+    description: ""
+    speakers: [21]
+-
+    id: 21200
+    title: "Lunch"
+    place: "Hall"
+    service: true
+    description: ""
+-
+    id: 23
+    title: "Session 7: Breakout Sessions"
+    description: "Chair: Eric Deutsch"
+    subtype: workshop
+    speakers: []
+    service: true
+    group: true
+-
+    id: 21300
+    title: "Breakout organizers: Eric Deutsch, Andreas Prlic, Gustavo Glusman, Gil Omenn"
+    subtype: workshop
+    speakers: []
+    description: ""
+-
+    id: 24
+    title: "Session 8: Future"
+    description: "Chair: Andreas Prlic"
+    subtype: workshop
+    speakers: []
+    service: true
+    group: true
+-
+    id: 21500
+    title: "Reports back from breakout groups"
+    description: ""
+    speakers: [99,9,5,10]
+-
+    id: 21540
+    title: "Open Discussion Day 2"
+    subtype: workshop
+    speakers: []
+    description: ""
+-
+    id: 21640
+    title: "Closing Remarks"
+    subtype: workshop
+    speakers: [10]
+    description: ""
