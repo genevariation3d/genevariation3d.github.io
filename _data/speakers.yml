@@ -245,6 +245,17 @@
     ribbon:
       - {abbr: "Amplab", title: "Amplab, U.C. Berkeley", url: "https://amplab.cs.berkeley.edu/"}
 -
+    id: 22
+    name: "David"
+    surname: "Masica"
+    company: "Johns Hopkins University"
+    title: "Assistant Research Professor"
+    bio: "David is interested in developing novel computational methods to predict the impact of (epi)genetic alterations on human disease and drug response."
+    thumbnailUrl: DavidMasica.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "Johns Hopkins", title: "Johns Hopkins University", url: "http://karchinlab.org/"}
+-
     id: 99
     name: "Andeas"
     surname: "Prlic"
