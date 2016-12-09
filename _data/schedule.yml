@@ -199,6 +199,11 @@
       	sessionIds: [21120]
     }
     - {
+        	startTime: "11:40",
+        	endTime: "12:00",
+        	sessionIds: [21140]
+      }
+    - {
       	startTime: "12:00",
       	endTime: "13:00",
       	sessionIds: [21200],

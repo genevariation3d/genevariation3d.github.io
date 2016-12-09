@@ -197,7 +197,7 @@
     thumbnailUrl: MichaelHicks.jpg
     rockstar: true
     ribbon:
-      - {abbr: "HLI", title: "Human Longevity, Inc", url: "http://www.nesvilab.org/labMembers.html"}
+      - {abbr: "HLI", title: "Human Longevity, Inc", url: "http://www.humanlongevity.com/"}
     social:
       - {name: "linkedin", link: "https://www.linkedin.com/in/mahicks"}
 -
@@ -255,6 +255,17 @@
     rockstar: true
     ribbon:
       - {abbr: "Johns Hopkins", title: "Johns Hopkins University", url: "http://karchinlab.org/"}
+-
+    id: 23
+    name: "Sheila"
+    surname: "Reynolds"
+    company: "Institute for Systems Biology"
+    title: "Senior Research Scientist"
+    bio: "Sheila is interested in applying a wide range of machine-learning techniques to large heterogeneous datasets to further our understanding of the complex interplay of genomic rearrangements and epigenetic alterations in cancer and to help translate these findings into new and improved treatment protocols."
+    thumbnailUrl: SheilaReynolds.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://www.systemsbiology.org/bio/eric-deutsch-phd/"}
 -
     id: 99
     name: "Andeas"
