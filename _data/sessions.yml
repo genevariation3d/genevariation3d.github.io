@@ -51,7 +51,7 @@
   group: true
 -
   id: 11100
-  title: ""
+  title: "Genome variation databases"
   description: ""
   subtype: workshop
   speakers: [9]
@@ -82,7 +82,7 @@
 -
   id: 13
   title: "Session 3: Mapping Variations to Structures - Part 1"
-  description: "Chair: Gustavo Gusman"
+  description: "Chair: Gustavo Glusman"
   subtype: workshop
   speakers: []
   service: true
@@ -226,7 +226,7 @@
     group: true
 -
     id: 21300
-    title: "Breakout organizers: Eric Deutsch, Andreas Prlic, Gustavo Gusman, Gil Omenn"
+    title: "Breakout organizers: Eric Deutsch, Andreas Prlic, Gustavo Glusman, Gil Omenn"
     subtype: workshop
     speakers: []
     description: ""
