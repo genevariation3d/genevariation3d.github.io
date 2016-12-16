@@ -13,7 +13,7 @@
 -
   id: 11
   title: "Session 1: Protein Structures"
-  description: "Chair: Andreas Prlic"
+  description: "Chair: Andreas Prli&#263;"
   subtype: workshop
   speakers: []
   service: true
@@ -157,7 +157,7 @@
 -
     id: 21
     title: "Session 5: Mapping Variations to Structures - Part 2"
-    description: "Chair: Andreas Prlic"
+    description: "Chair: Andreas Prli&#263;"
     subtype: workshop
     speakers: []
     service: true
@@ -236,14 +236,14 @@
     group: true
 -
     id: 21300
-    title: "Breakout organizers: Eric Deutsch, Andreas Prlic, Gustavo Glusman, Gil Omenn"
+    title: "Breakout organizers: Eric Deutsch, Andreas Prli&#263;, Gustavo Glusman, Gil Omenn"
     subtype: workshop
     speakers: []
     description: ""
 -
     id: 24
     title: "Session 8: Future"
-    description: "Chair: Andreas Prlic"
+    description: "Chair: Andreas Prli&#263;"
     subtype: workshop
     speakers: []
     service: true
