@@ -265,7 +265,18 @@
     thumbnailUrl: SheilaReynolds.jpg
     rockstar: true
     ribbon:
-      - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://www.systemsbiology.org/bio/eric-deutsch-phd/"}
+      - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://www.systemsbiology.org/bio/sheila-reynolds-phd/"}
+-
+    id: 24
+    name: "Adam"
+    surname: "Godzik"
+    company: "Sanford Burnham Prebys Medical Discovery Institute"
+    title: ""
+    bio: "We try to combine insights from physics and biology to answer basic questions about the relation between the protein sequence and its structure and function."
+    thumbnailUrl: AdamGodzik.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "sbpdiscovery", title: "Sanford Burnham Prebys Medical Discovery Institute", url: "http://bioinformatics.burnham.org/pages/"}
 -
     id: 99
     name: "Andeas"
