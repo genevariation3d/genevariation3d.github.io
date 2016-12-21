@@ -278,6 +278,50 @@
     ribbon:
       - {abbr: "sbpdiscovery", title: "Sanford Burnham Prebys Medical Discovery Institute", url: "http://bioinformatics.burnham.org/pages/"}
 -
+    id: 25
+    name: "Geoff"
+    surname: "Barton"
+    company: "University of Dundee"
+    title: "Professor of Bioinformatics and Head of Division of Computational Biology"
+    bio: "<p>Geoff	Barton	is	Professor	of	Bioinformatics	and	Head	of	the	Division	of	Computational
+Biology	at	the	University	of	Dundee	School	of	Life	Sciences.		Before	moving	to	Dundee	in
+2001	he	was	Head	of	the	Protein	Data	Bank	in	Europe	and	Research	and	Development	Team
+leader	at	the	EMBL	European	Bioinformatics	Institute,	Hinxton,	Cambridge.		Prior	to	EMBLEBI
+he	was	Head	of	Genome	Informatics	at	the	Wellcome	Trust	Centre	for	Human	Genetics,
+University	of	Oxford,	a	position	he	held	concurrently	with	a	Royal	Society University
+Research	Fellowship	in	the	Department	of	Biochemistry.</p>
+<p>Geoff’s	longest	running	research	interest	is	the	study	of	the	relationship	between	a
+protein’s	sequence,	its	structure	and	function	by	computational	methods.		His	work	exploits
+large	publicly available	datasets	to	identify	novel	properties	and	to	develop	effective
+prediction	methods.		 His	group	have	contributed	many	tools	and techniques	in	the	area	of
+protein	sequence and	structure analysis	and	structure	prediction.	Two	of	the	best	known
+are	the	Jalview	(www.jalview.org) multiple	alignment	visualisation	and	analysis	workbench
+which	is	in	use	by	over	70,000	groups	for	research	and	teaching,	and	the	JPred
+(www.compbio.dundee.ac.uk/jpred) multi-Neural	Net	protein	secondary	structure
+prediction	algorithm	that	performs	predictions	on	up	to	250,000	proteins/month	for	users
+worldwide.		In	addition	to	his	work	on	protein	sequence	and	structure,	Geoff	has
+collaborated on	many	projects	that	probe	biological	processes	by	proteomics	and	highthroughput
+sequencing.			In	particular,	he	has	a	long-running	collaboration	with	Prof	Gordon
+Simpson	that	seeks	to	understand	the	control	of	mRNA	termination	and	methylation.
+Geoff’s group	has deep expertise	in	RNA-seq	methods	and	has	recently	published	a	two-condition
+48	replicate	RNA-seq	study	that	is	now	a	key	reference work for users of	this
+technology.</p>"
+    thumbnailUrl: GeoffBarton.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Dundee", title: "University of Dundee", url: "http://www.compbio.dundee.ac.uk/"}
+-
+    id: 26
+    name: "Frances"
+    surname: "Pearl"
+    company: "University of Sussex"
+    title: "Bioinformatics Academic Research Manager (Biochemistry)"
+    bio: "We use bioinformatics and cheminformatics techniques to support the translational drug discovery initiative in Sussex, to analyse cancer data and to study protein evolution."
+    thumbnailUrl: FrancesPearl.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Sussex", title: "University of Sussex", url: "http://www.sussex.ac.uk/lifesci/bioinformaticslab/"}
+-
     id: 99
     name: "Andeas"
     surname: "Prli&#263;"
