@@ -310,6 +310,7 @@ technology.</p>"
     rockstar: true
     ribbon:
       - {abbr: "U. Dundee", title: "University of Dundee", url: "http://www.compbio.dundee.ac.uk/"}
+      - {abbr: "Jalview", title: "Jalview software", url: "http://www.jalview.org/"}  
 -
     id: 26
     name: "Frances"
