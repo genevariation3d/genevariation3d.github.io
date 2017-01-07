@@ -68,6 +68,11 @@
   subtype: workshop
   speakers: [6]
 -
+    id: 11130
+    title: "Fast and comprehensive detection of variant peptides using MSFragger"
+    description: ""
+    speakers: [16]
+-
   id: 11200
   title: "Getting the entire message: Full-length RNA isoforms in human brain and cells"
   description: ""
@@ -137,6 +142,11 @@
     description: ""
     speakers: [4]
 -
+    id: 11610
+    title: "Comparing mutations in tumour supressors and oncogenes"
+    description: ""
+    speakers: [26]
+-
     id: 11600
     title: "Modeling at the intersection of structural biology and systems biology"
     description: ""
@@ -168,10 +178,10 @@
     description: ""
     speakers: [13]
 -
-    id: 20920
-    title: "Fast and comprehensive detection of variant peptides using MSFragger"
+    id: 20850
+    title: "Constrained and not Constrained: What can human variation tell us about protein structure?"
     description: ""
-    speakers: [16]
+    speakers: [25]
 -
     id: 20940
     title: "Using high throughput assays of mutation effects to drive protein design."
@@ -240,6 +250,11 @@
     subtype: workshop
     speakers: []
     description: ""
+-
+    id: 21450
+    title: "Break"
+    description: ""
+    service: true
 -
     id: 24
     title: "Session 8: Future"
