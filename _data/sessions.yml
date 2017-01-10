@@ -174,7 +174,7 @@
     group: true
 -
     id: 20900
-    title: ""
+    title: "Mapping sequence annotation to structure by automated protein structure homology modeling"
     description: ""
     speakers: [13]
 -
