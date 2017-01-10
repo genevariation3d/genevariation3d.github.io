@@ -80,7 +80,7 @@
   speakers: [20]
 -
   id: 11220
-  title: "Lunch"
+  title: "Lunch & Poster Session"
   place: "Hall"
   service: true
   description: ""
@@ -232,7 +232,7 @@
     speakers: [23]
 -
     id: 21200
-    title: "Lunch"
+    title: "Lunch & Poster Session"
     place: "Hall"
     service: true
     description: ""
@@ -267,7 +267,7 @@
     id: 21500
     title: "Reports back from breakout groups"
     description: ""
-    speakers: [99,9,5,10]
+    speakers: []
 -
     id: 21540
     title: "Open Discussion Day 2"
