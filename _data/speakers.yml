@@ -167,11 +167,11 @@
 -
     id: 15
     name: "Julia"
-    surname: "Koehler Lemann"
+    surname: "Koehler Leman"
     company: "Simons Center for Data Analysis"
     title: ""
     bio: ""
-    thumbnailUrl: JuliaKoehlerLemann.jpg
+    thumbnailUrl: JuliaKoehlerLeman.jpg
     rockstar: true
     ribbon:
       - {abbr: "simonsfoundation", title: "Simons Foundation", url: "https://www.simonsfoundation.org/computational-centers/simons-center-for-data-analysis/systems-biology/julia-koehler-leman/"}
@@ -310,7 +310,7 @@ technology.</p>"
     rockstar: true
     ribbon:
       - {abbr: "U. Dundee", title: "University of Dundee", url: "http://www.compbio.dundee.ac.uk/"}
-      - {abbr: "Jalview", title: "Jalview software", url: "http://www.jalview.org/"}  
+      - {abbr: "Jalview", title: "Jalview software", url: "http://www.jalview.org/"}
 -
     id: 26
     name: "Frances"
