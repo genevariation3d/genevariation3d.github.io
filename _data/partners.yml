@@ -1,1 +1,5 @@
-- 
+-
+  group: "Funding"
+  elements:
+    - {name: "NSF", description: "This workshop is funded by the NSF grants IIS-1636903 and IIS-1636804 BD Spokes: PLANNING: WEST: Collaborative: Increasing collaborations in proteogenomics applications of genetic data ", imageUrl: "nsf.png"}    
+-
