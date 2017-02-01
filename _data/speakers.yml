@@ -73,17 +73,6 @@
     ribbon:
       - {abbr: "Aarhus University", title: "Aarhus University", url: "http://pure.au.dk/portal/en/emoke.bendixen@agrsci.dk"}
 -
-    id: 7
-    name: "Yang"
-    surname: "Zhang"
-    company: "U. Michigan"
-    title: ""
-    bio: "One of the main focuses of the Zhang lab is to develop computational methods to predict 3-dimensional structure of protein molecules from amino acid sequence, and to deduce the biological functions based on the sequence-to-structure-to-function paradigm."
-    thumbnailUrl: YangZhang.jpg
-    rockstar: true
-    ribbon:
-      - {abbr: "U. Michigan", title: "U. Michigan", url: "http://zhanglab.ccmb.med.umich.edu/"}
--
     id: 8
     name: "Ariel"
     surname: "Rokem"
@@ -211,17 +200,6 @@
     rockstar: true
     ribbon:
       - {abbr: "Johns Hopkins", title: "Johns Hopkins University", url: "http://karchinlab.org/"}
--
-    id: 19
-    name: "Hannah"
-    surname: "Gelman"
-    company: "University of Washington"
-    title: ""
-    bio: ""
-    thumbnailUrl: HannahGelman.jpg
-    rockstar: true
-    ribbon:
-      - {abbr: "U. Washington", title: "University of Washington", url: "http://faculty.washington.edu/dfowler/people.html"}
 -
     id: 20
     name: "Hagen"
