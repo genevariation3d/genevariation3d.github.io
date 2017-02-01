@@ -78,7 +78,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "30", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "40", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "2", specialCharacter: "+", info: "days", detail: "of Big Data technologies"}
 
 # Latest News Block
