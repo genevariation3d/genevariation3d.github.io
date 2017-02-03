@@ -27,13 +27,13 @@
   id: 2
   name: "Peter"
   surname: "Rose"
-  title: "Site Head, RCSB PDB West"
+  title: "Director Structural Bioinformatics Laboratory, San Diego Supercomputer Center"
   thumbnailUrl: PeterRose.jpg
   team: true
   ribbon:
-    - {abbr: "RCSB PDB", title: "RCSB Protein Data Bank"}
+    - {abbr: "SDSC", title: "San Diego Supercomputer Center"}
   social:
-    - {name: "github", link: "https://github.com/pwrose"}
+    - {name: "github", link: "https://github.com/pwrose"}    
 -
    id: 3
    name: "Gustavo"
