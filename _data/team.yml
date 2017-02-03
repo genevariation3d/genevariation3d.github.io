@@ -33,13 +33,13 @@
   ribbon:
     - {abbr: "SDSC", title: "San Diego Supercomputer Center"}
   social:
-    - {name: "github", link: "https://github.com/pwrose"}    
+    - {name: "github", link: "https://github.com/pwrose"}
 -
    id: 3
    name: "Gustavo"
-   surname: "Gusman"
+   surname: "Glusman"
    team: true
-   thumbnailUrl: GustavoGusman.jpg
+   thumbnailUrl: GustavoGlusman.jpg
    ribbon:
      - {abbr: "ISB", title: "Institute for Systems Biology"}
 -

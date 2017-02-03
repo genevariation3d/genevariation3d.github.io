@@ -90,7 +90,7 @@
     company: "Institute for Systems Biology - Kaviar database"
     title: ""
     bio: "Dr. Glusman investigates genome structure and evolution; multi-gene families; prediction and discovery of genes and transcripts; genes not coding for proteins; visualization of complex data; and image analysis."
-    thumbnailUrl: GustavoGusman.jpg
+    thumbnailUrl: GustavoGlusman.jpg
     rockstar: true
     ribbon:
       - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://www.systemsbiology.org/bio/gustavo-glusman-phd/"}
