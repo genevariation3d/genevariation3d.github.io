@@ -127,19 +127,15 @@
     - {
       	startTime: "15:30",
       	endTime: "15:50",
-      	sessionIds: [11540]
+      	sessionIds: [11610]
     }
     - {
       startTime: "15:50",
-      endTime: "16:10",
-      sessionIds: [11610]
+      endTime: "16:50",
+      sessionIds: [11620],
+        	showEnd: true
     }
-    - {
-      	startTime: "16:10",
-      	endTime: "17:10",
-      	sessionIds: [11620],
-      	showEnd: true
-    }
+
 -
   date: "2017-02-10"
   dateReadable: "February 10"

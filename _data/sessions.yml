@@ -9,7 +9,7 @@
   title: "Welcome and Introductions"
   description: ""
   subtype: workshop
-  speakers: [10]
+  speakers: [10,99]
 -
   id: 11
   title: "Session 1: Protein Structures"
