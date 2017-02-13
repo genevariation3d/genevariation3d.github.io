@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png?v=3"
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-registerUrl: "https://secure.qgiv.com/for/ifsbevents/event/778505/"
+#registerUrl: "https://secure.qgiv.com/for/ifsbevents/event/778505/"
 
 # Navigation
 navigationLinks:
@@ -47,7 +47,6 @@ navigationLinks:
  - {permalink: "/about/", text: "About"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/register/", text: "Registration"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/usecases/", text: "Use Cases"}
@@ -55,9 +54,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 
 bottomNavigationLinks:
- - {link: "/register/", text: "Register"}
+# - {link: "/register/", text: "Register"}
 rightNavigationButtons:
- - {link: "/register/", text: "Register"}
+ #- {link: "/register/", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -66,7 +65,7 @@ eventDate: "February 9th, 10th, 2017"
 typeoutTextValues: '"", "Institute for Systems Biology", "Seattle", "Washington", "USA"'
 typeoutFallback: "ISB"
 heroButtons:
- - {permalink: "/register", text: "Register"}
+# - {permalink: "/register", text: "Register"}
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -127,10 +126,10 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://genevariation3d.org/register/"
-subscribeInfo: "Registration is open"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://genevariation3d.org/register/"
+#subscribeInfo: "Registration is open"
 
 # Footer
 socialLinks:
