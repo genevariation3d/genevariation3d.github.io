@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Summary of the Gene Variation 3D workshop"
-date:   2016-08-29 10:00:00
+date:   2017-08-29 10:00:00
 isStaticPost: false
 ---
 On February 9th and 10th, 2017, we hosted the Gene Variation to 3D (GVto3D) workshop at the Institute for Systems Biology in Seattle, WA. The goal of the workshop was to explore the state of the field connecting genetic variation and 3D protein structure, and to bring together some of the key researchers working on interpreting genetic variation data. The workshop consisted of a mixture of talks, discussion sessions, and breakout groups. Twenty-five speakers provided short (15 minute) summaries of their research. The program is available at <a href="http://genevariation3d.org/">the genevariation3d website</a>. The oral presentations connected the workshop theme to diverse topics such as RNA sequencing, Big Data technologies, how precision medicine can help with specific diseases and cancer research. One breakout group discussed existing ontologies, tools and datasets in the field and considered potential architectures for an integrative framework. The second breakout group discussed unmet needs, ranging from improvements in structural interpretation of splicing variants to more effective dissemination of knowledge to clinical geneticists, tumor panels and the general public.
