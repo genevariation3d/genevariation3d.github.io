@@ -36,10 +36,10 @@
     - {name: "github", link: "https://github.com/pwrose"}
 -
    id: 3
-   name: "Gustavo"
+   name: "Gwênlyn"
    surname: "Glusman"
    team: true
-   thumbnailUrl: GustavoGlusman.jpg
+   thumbnailUrl: GwenlynGlusman.jpg
    ribbon:
      - {abbr: "ISB", title: "Institute for Systems Biology"}
 -
