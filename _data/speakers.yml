@@ -85,15 +85,15 @@
       - {abbr: "U. Washington", title: "University of Washington", url: "http://arokem.org/"}
 -
     id: 9
-    name: "Gustavo"
+    name: "Gwênlyn"
     surname: "Glusman"
     company: "Institute for Systems Biology - Kaviar database"
     title: ""
     bio: "Dr. Glusman investigates genome structure and evolution; multi-gene families; prediction and discovery of genes and transcripts; genes not coding for proteins; visualization of complex data; and image analysis."
-    thumbnailUrl: GustavoGlusman.jpg
+    thumbnailUrl: GwenlynGlusman.jpg
     rockstar: true
     ribbon:
-      - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://www.systemsbiology.org/bio/gustavo-glusman-phd/"}
+      - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://isbscience.org/bio/gwenlyn-glusman-phd/"}
 -
     id: 10
     name: "Eric"
